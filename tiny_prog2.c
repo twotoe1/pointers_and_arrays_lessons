@@ -1,7 +1,7 @@
 #include<stdio.h>
 
 /*
- *The program shows how an array of elements can be assigned to a single address at the same time showing individual addresses in the memo for each element.
+ *The program shows how an array of elements can be stored at an address at the same time showing individual addresses in the memo for each element.
  more scenarios will be drawn from the code showcasing the power of pointers.
  */
 
