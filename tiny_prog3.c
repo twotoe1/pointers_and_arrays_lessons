@@ -14,7 +14,7 @@ int ptr_addresses(int* ptr, int arr_size)
 int main()
 {
 	int a[] = {5,8,3}; /*Elements in the array, thats determines its size*/
-	int* hp; //declarer pointer variable
+	int* hp; //declare pointer variable
 
 	hp = a;/*hp points to a, thats the address in memo of varible a is stored at hp variable*/
 	int arr_size = sizeof(a)/sizeof(a[0]); /*arr_size holds the value of the  expression that computes the length of an array.
